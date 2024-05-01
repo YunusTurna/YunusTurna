@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @YunusTurna I am an cs student in Dogus Universtiy
-- 👀 I’m interested in, as you can expect, computers and coding.
+- 👋 Hi, I’m @YunusTurna I am a cs student in Dogus University
+- 👀 I’m interested in, as you can expect, computers and coding, especially game development.
 - 🌱 I’m currently learning unity
-- 📫 ahmetyunusturna@hotmail.com is my e mail adress.
+- 📫 ahmetyunusturna@hotmail.com is my e-mail address.
 
 
