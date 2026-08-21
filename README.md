@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <a href="https://yunusturna.github.io">
@@ -94,16 +93,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yunusturna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=yunusturna&theme=tokyonight" />
-</div>
-
----
-
 <div align="center">
   <sub>Designed with ❤️ by <a href="https://github.com/yunusturna">Ahmet Yunus Turna</a></sub>
 </div>
-```
