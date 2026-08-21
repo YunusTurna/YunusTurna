@@ -5,7 +5,7 @@
   </a>
 
   <p align="center">
-    <strong>Game Developer / Computer Engineer</strong> • 📍 Istanbul, Turkey
+    <strong>Game Developer / Computer Engineer</strong>
   </p>
 
   <p align="center">
