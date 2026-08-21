@@ -41,7 +41,7 @@
 
 - 🥊 **Intern Game Developer** @ **Arvis Games** *(02/2026 – 08/2026)* · `UFC:KO`
 - 🕹️ **Intern Game Developer** @ **UDO** *(07/2025 – 08/2025)*
-- 🧠 **Intern Unity Developer** @ **Genarion** *(11/2024 – 07/2025)* · `LLM NPC Systems`
+- 🧠 **Intern Unity Developer** @ **Genarion** *(11/2024 – 07/2025)*
 - 👥 **Project Management Intern** @ **Türkiye Girişimcilik Vakfı** *(09/2024 – 08/2025)*
 - 🎯 **Jr. Game Developer** @ **Stak Games** *(12/2023 – 10/2024)*
 - 🚀 **Co-Founder & Game Developer** @ **Undoco Games** *(06/2023 – 12/2023)* · `BUG-Lab Tekmer`
